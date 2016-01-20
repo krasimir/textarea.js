@@ -1,0 +1,24 @@
+{
+  "name": "textareajs",
+  "version": "0.1.0",
+  "description": "Enhancing textarea HTML element",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/krasimir/textarea.js.git"
+  },
+  "keywords": [
+    "textarea",
+    "enhance",
+    "selection"
+  ],
+  "author": "Krasimir Tsonev",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/krasimir/textarea.js/issues"
+  },
+  "homepage": "https://github.com/krasimir/textarea.js"
+}
